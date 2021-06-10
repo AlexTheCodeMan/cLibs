@@ -1,0 +1,5 @@
+.env
+truffle-config.js
+build/
+doc/
+node_modules/

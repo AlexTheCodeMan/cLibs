@@ -1,0 +1,19 @@
+{
+  "name": "resuablemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ATC_CompoundMethods.js",
+  "devDependencies": {
+    "abi-decoder": "2.3.0",
+    "axios": "0.21.0",
+    "child_process": "1.0.2",
+    "dotenv": "8.2.0",
+    "ethereum-input-data-decoder": "0.3.1",
+    "ethereumjs-tx": "2.1.2",
+    "express": "4.17.1",
+    "fs": "0.0.1-security",
+    "web3": "1.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
