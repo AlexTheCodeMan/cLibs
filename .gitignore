@@ -3,3 +3,5 @@ truffle-config.js
 build/
 doc/
 node_modules/
+testData/
+testResults/
